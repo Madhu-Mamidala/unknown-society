@@ -1,0 +1,11 @@
+.chat_list_container {
+  height: 70vh;
+  overflow: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .chat_list_container {
+    height: 90vh;
+    overflow: auto;
+  }
+}
