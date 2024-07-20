@@ -6,7 +6,7 @@
 
 ---
 
-> tech stack
+> Frontend
 
 - [NextJS](www.nextjs.org)
 
@@ -16,7 +16,7 @@
 
 ---
 
-- Details
+> **Details**
 
 - 📅 **20-07-2024**
 
@@ -26,10 +26,10 @@
 
 > ## UI
 
-    - TopNav bar
-    - SideNav bar
-    - Chat list
-    - Chat box
+- TopNav bar
+- SideNav bar
+- Chat list
+- Chat box
 
 > with Responsive UI & Mobile Friendly
 
